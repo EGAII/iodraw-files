@@ -16,7 +16,7 @@
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-2" value="DEM Image&lt;br&gt;(1xHxW)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-3" value="DEM CNN Encoder" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-5" value="RGB CNN Encoder&lt;br&gt;(extract feature)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
