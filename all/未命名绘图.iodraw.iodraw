@@ -28,7 +28,7 @@
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-5" value="RGB CNN Encoder&lt;br&gt;(extract feature)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-7" value="feature concact" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
