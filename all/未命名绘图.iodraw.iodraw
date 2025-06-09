@@ -59,7 +59,7 @@
           <mxGeometry x="250" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-18" value="output:SAR(1 channel)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
