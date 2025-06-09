@@ -32,31 +32,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-7" value="feature concact" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU95GRmZAUlFWHU5Ejv0-10" target="ZU95GRmZAUlFWHU5Ejv0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-10" value="flatten + Pos Encoding" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU95GRmZAUlFWHU5Ejv0-12" target="ZU95GRmZAUlFWHU5Ejv0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-12" value="Transformer Encoder" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU95GRmZAUlFWHU5Ejv0-14" target="ZU95GRmZAUlFWHU5Ejv0-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-14" value="Reshape" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU95GRmZAUlFWHU5Ejv0-16" target="ZU95GRmZAUlFWHU5Ejv0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-16" value="CNN Decoder&lt;br&gt;(Upsampling)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-18" value="output:SAR(1 channel)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1110" width="120" height="60" as="geometry" />
