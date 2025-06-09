@@ -46,8 +46,14 @@
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-12" value="Transformer Encoder" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU95GRmZAUlFWHU5Ejv0-14" target="ZU95GRmZAUlFWHU5Ejv0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-14" value="Reshape" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-16" value="CNN Decoder&lt;br&gt;(Upsampling)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
