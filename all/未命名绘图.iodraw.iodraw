@@ -28,8 +28,14 @@
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-5" value="RGB CNN Encoder&lt;br&gt;(extract feature)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU95GRmZAUlFWHU5Ejv0-7" target="ZU95GRmZAUlFWHU5Ejv0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-7" value="feature concact" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
