@@ -7,8 +7,8 @@
         <mxCell id="ZU95GRmZAUlFWHU5Ejv0-1" value="RGB Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-2" value="RGB Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="ZU95GRmZAUlFWHU5Ejv0-2" value="DEM Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
