@@ -16,8 +16,8 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-4" value="DSM-&amp;gt;SAR generation" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-6" value="pseudo SAR&lt;div&gt;(geometry constraint)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
