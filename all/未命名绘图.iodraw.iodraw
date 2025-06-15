@@ -70,7 +70,7 @@
           <mxGeometry x="240" y="920" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-28" value="&lt;div&gt;Real DSM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-29" target="O6j7Y4784UMzPkA_i2dR-25">
           <mxGeometry relative="1" as="geometry" />
@@ -92,6 +92,12 @@
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-40" value="&lt;div&gt;Generated SAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="430" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="410" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
