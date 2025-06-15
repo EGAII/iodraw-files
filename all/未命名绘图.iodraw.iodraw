@@ -19,8 +19,11 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-6" value="pseudo SAR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-8" value="Angle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
