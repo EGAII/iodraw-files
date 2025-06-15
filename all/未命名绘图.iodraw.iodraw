@@ -78,7 +78,7 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-29" value="&lt;div&gt;Real RGB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="20" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-32" value="Simulated SAR&lt;div&gt;(GT)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-32" value="Generated SAR" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
