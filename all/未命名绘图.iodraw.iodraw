@@ -111,10 +111,7 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-49" value="&lt;u style=&quot;text-underline:single&quot;&gt;&lt;span style=&quot;font-size:&amp;lt;br/&amp;gt;32.0pt;font-family:Arial;mso-ascii-font-family:Arial;mso-fareast-font-family:&amp;lt;br/&amp;gt;宋体;mso-bidi-font-family:Arial;mso-fareast-theme-font:minor-fareast;color:black;&amp;lt;br/&amp;gt;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:&amp;lt;br/&amp;gt;solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:&amp;lt;br/&amp;gt;black;mso-style-textfill-fill-alpha:100.0%&quot;&gt;Adversarial Loss&lt;/span&gt;&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="880" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="938" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-51" value="Structural Consistency Loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-51" value="Structural Consistency Loss" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
