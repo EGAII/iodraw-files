@@ -102,8 +102,11 @@
             <mxPoint x="489.29" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-47" target="O6j7Y4784UMzPkA_i2dR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-47" value="Angle&lt;div&gt;Direction&lt;/div&gt;&lt;div&gt;(information in dataset)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="985" width="110" height="55" as="geometry" />
+          <mxGeometry x="30" y="920" width="150" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
