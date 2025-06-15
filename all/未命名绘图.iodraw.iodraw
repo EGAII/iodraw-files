@@ -81,8 +81,8 @@
             <mxPoint x="320" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-37" value="&lt;b&gt;Step1:Learn geometry information&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="200" height="30" as="geometry" />
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-37" value="Feature matching loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="520" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
