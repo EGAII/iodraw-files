@@ -22,7 +22,7 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-6" target="O6j7Y4784UMzPkA_i2dR-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-6" value="Simulated SAR&lt;div&gt;(as GT)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-6" value="Simulated SAR&lt;div&gt;(GT)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="294" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-8" value="Angle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
