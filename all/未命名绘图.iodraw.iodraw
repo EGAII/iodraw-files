@@ -60,6 +60,9 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-25" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="200" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-26" target="O6j7Y4784UMzPkA_i2dR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-26" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="260" y="820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -87,8 +90,8 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-37" value="Feature matching loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-40" value="&lt;div&gt;Real RGB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="40" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-40" value="&lt;div&gt;Generated SAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
