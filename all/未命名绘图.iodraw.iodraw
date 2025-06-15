@@ -67,10 +67,10 @@
           <mxGeometry x="250" y="1060" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-28" value="&lt;div&gt;Real DSM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="50" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-29" value="&lt;div&gt;Real RGB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-32" value="Generated SAR" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
