@@ -41,7 +41,7 @@
           <mxGeometry x="420" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-17" value="RGB-&amp;gt;SAR generation model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="355" width="110" height="30" as="geometry" />
+          <mxGeometry x="495" y="440" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-19" target="O6j7Y4784UMzPkA_i2dR-11">
           <mxGeometry relative="1" as="geometry" />
