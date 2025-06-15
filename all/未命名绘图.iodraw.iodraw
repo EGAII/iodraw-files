@@ -37,6 +37,12 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-14" value="pretrain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="238" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
