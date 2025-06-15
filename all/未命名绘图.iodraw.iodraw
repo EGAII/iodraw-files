@@ -56,7 +56,16 @@
           <mxGeometry x="-10" y="580" width="640" height="260" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-24" value="&lt;b&gt;Step2:Learn SAR distribution and refine realism &amp;amp; align&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="585" width="200" height="30" as="geometry" />
+          <mxGeometry x="140" y="585" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-25" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-26" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-27" value="RGB-&amp;gt;SAR generation model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="450" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
