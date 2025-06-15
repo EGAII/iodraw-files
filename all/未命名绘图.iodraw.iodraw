@@ -40,7 +40,7 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-14" value="pretrain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-17" value="RGB-&amp;gt;SAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-17" value="RGB-&amp;gt;SAR generation model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
