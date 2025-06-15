@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-47" value="Angle&lt;div&gt;Direction&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="985" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="985" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
