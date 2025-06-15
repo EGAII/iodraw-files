@@ -65,7 +65,7 @@
           <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-27" value="Pretrained model in step 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="770" width="95" height="30" as="geometry" />
+          <mxGeometry x="60" y="770" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
