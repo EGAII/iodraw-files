@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="250" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6j7Y4784UMzPkA_i2dR-1" target="O6j7Y4784UMzPkA_i2dR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -25,8 +28,8 @@
         <mxCell id="O6j7Y4784UMzPkA_i2dR-9" value="Direction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-11" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
