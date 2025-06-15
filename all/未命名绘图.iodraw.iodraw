@@ -90,7 +90,7 @@
             <mxPoint x="320" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6j7Y4784UMzPkA_i2dR-37" value="Feature matching loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-37" value="Feature matching loss" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-40" value="&lt;div&gt;Generated SAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
           <mxGeometry x="15" y="930" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="O6j7Y4784UMzPkA_i2dR-49" value="&lt;u style=&quot;text-underline:single&quot;&gt;&lt;span style=&quot;font-size:&#xa;32.0pt;font-family:Arial;mso-ascii-font-family:Arial;mso-fareast-font-family:&#xa;宋体;mso-bidi-font-family:Arial;mso-fareast-theme-font:minor-fareast;color:black;&#xa;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:&#xa;solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:&#xa;black;mso-style-textfill-fill-alpha:100.0%&quot;&gt;Adversarial Loss&lt;/span&gt;&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="880" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
