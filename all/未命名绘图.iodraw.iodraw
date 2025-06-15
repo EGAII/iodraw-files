@@ -102,6 +102,9 @@
             <mxPoint x="489.29" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="O6j7Y4784UMzPkA_i2dR-47" value="Angle&lt;div&gt;Direction&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
